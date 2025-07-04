@@ -1,0 +1,27 @@
+{
+  "name": "brick-escape-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "14.1.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "recharts": "^2.6.2",
+    "lucide-react": "^0.323.0",
+    "framer-motion": "^11.0.17",
+    "tailwindcss-animate": "^1.0.7"
+  },
+  "devDependencies": {
+    "autoprefixer": "10.4.14",
+    "postcss": "8.4.21",
+    "tailwindcss": "3.3.2",
+    "typescript": "^5.0.0",
+    "@types/react": "^18.2.61",
+    "@types/node": "^20.11.30"
+  }
+}
